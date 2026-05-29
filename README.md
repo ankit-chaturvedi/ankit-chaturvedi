@@ -1,63 +1,89 @@
-# 👋 Hi, I'm Ankit Chaturvedi!
+# 🚀 Ankit Chaturvedi
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=GenAI+Engineer;Agentic+Workflow+Architect;RAG+Specialist;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D1B2&center=true&vCenter=true&width=600&lines=GenAI+Engineer;AI+Engineer;Backend+Engineer;Automation+Specialist" alt="Typing SVG" />
 </p>
 
-> **Note:** Most of my recent production work is hosted on my professional account (**ankit-ramp**) due to company policies. I plan to open-source personal versions of these architectures soon!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Architecting%20Intelligence&fontSize=50" />
+</p>
+
+> [!IMPORTANT]
+> **Professional Work Notice:** Due to company policies, my latest production implementations and agentic architectures are hosted on my professional account: **ankit-ramp**. 
 
 ---
 
-### 🤖 Summary
-I am a **GenAI Engineer** specializing in turning unstructured enterprise data into automated workflows. I have a proven track record of shipping production systems that significantly reduce manual overhead using **LangChain, LangGraph, FastAPI, and Docker**.
+### 🧪 About My Work
+I specialize in converting unstructured enterprise chaos into streamlined, automated excellence. My focus is on **Agentic Workflows**, **High-Scale RAG Systems**, and **Production-Grade AI Pipelines**.
 
 ---
 
-### 🚀 Production Experience & Impact
-- **RAG-based Enterprise Chatbot:** Deployed a system handling 200+ daily queries, reducing manual support load by **~60%**.
-- **AI Invoice Processing:** Built end-to-end pipelines automating data extraction from 500+ invoices/month, eliminating **~70%** of manual entry.
-- **Agentic Workflows:** Architected multi-step workflows for document classification and ERP routing, cutting turnaround times from **hours to minutes**.
-- **Enterprise Integration:** Integrated LLM services with **Microsoft Dataverse & Dynamics 365** via microservices.
+### 🛠 Tech Stack & Expertise
 
----
-
-### 🛠 Tech Stack
-
-**AI & LLM:**
+#### **🤖 AI & LLM**
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=for-the-badge&logo=graph&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG%20Pipelines-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Agentic%20AI-00C7B7?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF9900?style=for-the-badge&logo=airtable&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
 </p>
 
-**Backend & Data:**
+#### **⚙️ Backend & Infrastructure**
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit-chaturvedi&show_icons=true&theme=tokyonight" alt="Ankit's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-chaturvedi&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
-
-### 📫 Connect with me
+#### **📊 Databases, BI & Low-Code**
 <p align="left">
-<a href="https://linkedin.com/in/ankit-chaturvedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/icons/social/linked-in-alt.svg" alt="ankit-chaturvedi" height="30" width="40" /></a>
-<a href="mailto:ankit.chaturvedi0201@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20Apps-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Modelling-4CAF50?style=for-the-badge&logo=diagrams.net&logoColor=white" />
+</p>
+
+#### **🛠 Tools & Testing**
+<p align="left">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+#### **🌟 Familiar With**
+<p align="left">
+  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=dependabot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 ---
+
+### 📈 Activity Graph
 <p align="center">
-  <i>"Turning unstructured chaos into automated excellence."</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit-chaturvedi&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 📫 Reach Me
+<p align="left">
+<a href="mailto:ankit.chaturvedi0201@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ankit-chaturvedi&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
