@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D1B2&center=true&vCenter=true&width=600&lines=GenAI+Engineer;AI+Engineer;Backend+Engineer;Automation+Specialist" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/GenAI_Engineer-121212?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend_Engineer-005571?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation_Specialist-2EAD33?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 > [!IMPORTANT]
