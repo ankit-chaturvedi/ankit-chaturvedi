@@ -1,7 +1,7 @@
 # 🚀 Ankit Chaturvedi
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ankit-chaturvedi/ankit-chaturvedi/main/assets/banner.gif" width="650" style="border-radius: 10px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Architecting%20Intelligence&fontSize=50" />
 </p>
 
 <p align="center">
@@ -81,7 +81,7 @@ I specialize in converting unstructured enterprise chaos into streamlined, autom
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Architecting%20Intelligence&fontSize=50" />
+  <img src="https://raw.githubusercontent.com/ankit-chaturvedi/ankit-chaturvedi/main/assets/banner.gif" width="650" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
