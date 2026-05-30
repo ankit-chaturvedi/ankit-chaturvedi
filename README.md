@@ -73,16 +73,16 @@ I specialize in converting unstructured enterprise chaos into streamlined, autom
 - **Automated Workflows**: Replacing manual entry via LLM-powered extraction layers and robust backend services via `FastAPI`.
 - **Data & Analytics Pipelines**: Optimizing reporting efforts with `Python` pipelines and visual dashboards in `Power BI`.
 
-<br>
+---
 
-<table background="https://raw.githubusercontent.com/ankit-chaturvedi/ankit-chaturvedi/main/assets/banner.gif" width="100%" height="250">
-  <tr>
-    <td align="center" valign="middle">
-      <h3 style="color: white; text-shadow: 2px 2px 4px #000000;">📫 Reach Me</h3>
-      <a href="mailto:ankit.chaturvedi0201@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" /></a>
-    </td>
-  </tr>
-</table>
+### 📫 Reach Me
+<p align="left">
+<a href="mailto:ankit.chaturvedi0201@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ankit-chaturvedi/ankit-chaturvedi/main/assets/banner.gif" width="650" style="border-radius: 10px;" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankit-chaturvedi&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
