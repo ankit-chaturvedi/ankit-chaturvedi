@@ -1,11 +1,11 @@
 # 🚀 Ankit Chaturvedi
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D1B2&center=true&vCenter=true&width=600&lines=GenAI+Engineer;AI+Engineer;Backend+Engineer;Automation+Specialist" alt="Typing SVG" />
+  <video src="https://raw.githubusercontent.com/ankit-chaturvedi/ankit-chaturvedi/main/assets/banner.mp4" autoplay="autoplay" loop="loop" muted="muted" playsinline="playsinline" style="max-width: 100%; border-radius: 10px;"></video>
 </p>
 
 <p align="center">
-  <video src="https://github.com/ankit-chaturvedi/ankit-chaturvedi/raw/main/assets/banner.mp4" autoplay loop muted playsinline width="100%"></video>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D1B2&center=true&vCenter=true&width=600&lines=GenAI+Engineer;AI+Engineer;Backend+Engineer;Automation+Specialist" alt="Typing SVG" />
 </p>
 
 > [!IMPORTANT]
