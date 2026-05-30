@@ -81,7 +81,7 @@ I specialize in converting unstructured enterprise chaos into streamlined, autom
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Cozy Coding GIF" width="500" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Aesthetic Coding GIF" width="500" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
