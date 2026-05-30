@@ -52,7 +52,6 @@ I specialize in converting unstructured enterprise chaos into streamlined, autom
 ### 🌌 Activity Hub
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-chaturvedi&theme=tokyonight&hide_border=false&border_color=00D1B2&background=0D1117&ring=00D1B2&fire=00D1B2&currStreakLabel=00D1B2&border_radius=10&stroke=00D1B2" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit-chaturvedi&show_icons=true&theme=tokyonight&hide_border=false&border_color=00D1B2&bg_color=0D1117&border_radius=10&title_color=00D1B2&icon_color=00D1B2" alt="GitHub Stats" />
 </p>
 
 ---
