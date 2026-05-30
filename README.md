@@ -68,9 +68,9 @@ I specialize in converting unstructured enterprise chaos into streamlined, autom
 
 ---
 
-### 📈 Activity Graph
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit-chaturvedi&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ankit-chaturvedi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Ankit's Trophies" />
 </p>
 
 ---
@@ -81,7 +81,7 @@ I specialize in converting unstructured enterprise chaos into streamlined, autom
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Coding GIF" width="400" />
 </p>
 
 <p align="center">
