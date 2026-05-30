@@ -75,6 +75,13 @@ I specialize in converting unstructured enterprise chaos into streamlined, autom
 
 ---
 
+### 🌌 My Contributions
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%">
+</p>
+
+---
+
 ### 📫 Reach Me
 <p align="left">
 <a href="mailto:ankit.chaturvedi0201@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>
