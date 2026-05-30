@@ -1,7 +1,7 @@
 # 🚀 Ankit Chaturvedi
 
 <p align="center">
-  <video src="https://cdn.jsdelivr.net/gh/ankit-chaturvedi/ankit-chaturvedi@main/assets/banner.mp4" autoplay loop muted playsinline width="100%" style="border-radius: 10px;"></video>
+  <img src="https://raw.githubusercontent.com/ankit-chaturvedi/ankit-chaturvedi/main/assets/banner.gif" width="100%" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
