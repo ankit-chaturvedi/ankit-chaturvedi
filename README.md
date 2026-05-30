@@ -81,7 +81,7 @@ I specialize in converting unstructured enterprise chaos into streamlined, autom
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding GIF" width="400" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Cozy Coding GIF" width="500" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
