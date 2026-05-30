@@ -1,7 +1,7 @@
 # 🚀 Ankit Chaturvedi
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ankit-chaturvedi/ankit-chaturvedi/main/assets/banner.gif" width="100%" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/ankit-chaturvedi/ankit-chaturvedi/main/assets/banner.gif" width="650" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
