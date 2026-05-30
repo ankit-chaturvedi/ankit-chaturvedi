@@ -68,10 +68,10 @@ I specialize in converting unstructured enterprise chaos into streamlined, autom
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankit-chaturvedi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Ankit's Trophies" />
-</p>
+### 💻 What I Build
+- **Enterprise AI Systems**: RAG-based chatbots and agentic document processing using `LangChain` and `LangGraph`.
+- **Automated Workflows**: Replacing manual entry via LLM-powered extraction layers and robust backend services via `FastAPI`.
+- **Data & Analytics Pipelines**: Optimizing reporting efforts with `Python` pipelines and visual dashboards in `Power BI`.
 
 ---
 
@@ -81,7 +81,7 @@ I specialize in converting unstructured enterprise chaos into streamlined, autom
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Coding GIF" width="400" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding GIF" width="400" />
 </p>
 
 <p align="center">
